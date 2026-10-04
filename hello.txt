@@ -1,4 +1,4 @@
-hello from main
+hello from both the branches
 i am learning version conyrol
 this is my feature
 git is awesome
