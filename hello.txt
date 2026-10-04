@@ -1,4 +1,4 @@
-hello git!
+hello from feature
 i am learning version conyrol
 this is my feature
 git is awesome
