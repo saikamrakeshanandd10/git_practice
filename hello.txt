@@ -1,5 +1,6 @@
-hello git!
+hello from main
 i am learning version conyrol
 this is my feature
 git is awesome
 this change came from github
+i created an about feature
